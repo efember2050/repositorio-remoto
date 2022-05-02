@@ -49,3 +49,6 @@ int main() {
 
 // impelemntando un repositroio remoto
 // ya configure el name y el email
+
+// el cambio fue impelemntando poto
+// las modificaciones las hacemos en archivo convencional , pulsamos ctrl + s para guardar y los cambios , y en el apartado de control de versiones de vscode , guardamos todos los cambios
